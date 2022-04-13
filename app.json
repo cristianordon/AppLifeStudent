@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "todolistcli-dam",
+    "slug": "todolistcli-dam",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
